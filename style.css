@@ -129,6 +129,7 @@ h2{
   }
   .left-side{
     padding: 1.5rem;
+     width: 24rem;
   }
   .left-side p{
     margin-left:1rem ;
@@ -155,6 +156,9 @@ h2{
     align-items: center;
     width: 100%;
   }
+   .first-test,.second-test,.third-test{
+    width: 16rem;
+   }
   .first-test:hover,.second-test:hover,.third-test:hover{
     transform: translateX(-1rem);
 }
