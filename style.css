@@ -141,6 +141,9 @@ h2{
     margin-left:1rem ;
     margin-right: 0.5rem;
   }
+   .first-p,.second-p{
+    margin-bottom: 0.3rem;
+     }
   .one,.two{
     padding: 0rem;
   }
@@ -151,6 +154,7 @@ h2{
   .right-side p{
     right: 0rem;
     flex-direction: column;
+    width: 18rem;
   }
   .right-side{
     display: flex;
