@@ -15,6 +15,7 @@ body{
   background-color: hsl(0, 0%, 100%);
   background-size: cover;
   font-family: 'League Spartan',sans-serif;
+  margin:0;
 }
 .one{
   padding: 8em ;
