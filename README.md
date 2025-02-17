@@ -4,7 +4,7 @@
 
 ### Links
 
-- Solution : [Frontend Mentor solution](https://www.frontendmentor.io/solutions/stats-preview-htmlcss-KvtVUixgtU)
+- Solution : [Frontend Mentor solution](https://www.frontendmentor.io/solutions/social-proof-section-htmlcss-euvQnaKUbn)
 - Live Site : [Social proof section](https://tremy-t.github.io/Social-proof-section/)
 
 - ## Author
